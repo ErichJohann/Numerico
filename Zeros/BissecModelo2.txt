@@ -1,0 +1,23 @@
+Resultado para f(x) = x*log10(x)-1, I=[1,3], prec=10^-6 
+*****  A SOLUCAO ENCONTRADA PELO METODO DA BISSECCAO FOI:  *****
+ 2.506184101104736
+O valor de f(x) calculado na solucao foi:
+  -3.706887641286016e-08
+O numero de iteracoes foi:
+ 22
+
+Resultado para f(x) = x^2 - .5, I=[0,2], prec=10^-4 
+*****  A SOLUCAO ENCONTRADA PELO METODO DA BISSECCAO FOI:  *****
+   0.707122802734375
+O valor de f(x) calculado na solucao foi:
+   2.265814691781998e-05
+O numero de iteracoes foi:
+ 16
+
+Resultado para f(x) = x^3 - 9*x + 3, I=[2,4], prec=10^-4
+*****  A SOLUCAO ENCONTRADA PELO METODO DA BISSECCAO FOI:  *****
+  2.816925048828125
+O valor de f(x) calculado na solucao foi:
+ 1.627984215986089e-04
+O numero de iteracoes foi:
+ 16

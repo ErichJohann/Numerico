@@ -1,0 +1,26 @@
+Resultados para f(x) = 4, I = [0,1], n = 4 ---------------------
+O valor da integral pelo Metodo de Simpson foi: 4.0000000
+Resultados para f(x) = 4, I = [0,1], n = 100 -------------------
+O valor da integral pelo Metodo de Simpson foi: 4.0000000 
+
+Resultados para f(x) = x, I = [0,1], n = 4 ---------------------
+O valor da integral pelo Metodo de Simpson foi: 0.5000000
+Resultados para f(x) = x, I = [0,1], n = 100 -------------------
+O valor da integral pelo Metodo de Simpson foi: 0.5000000
+
+Resultados para f(x) = x^2, I = [0,1], n = 4 -------------------
+O valor da integral pelo Metodo de Simpson foi: 0.3333333
+Resultados para f(x) = x^2, I = [0,1], n = 100 -----------------
+O valor da integral pelo Metodo de Simpson foi: 0.3333333
+
+Resultados para f(x) = x^3, I = [0,1], n = 4 -------------------
+O valor da integral pelo Metodo de Simpson foi: 0.2500000
+Resultados para f(x) = x^3, I = [0,1], n = 100 -----------------
+O valor da integral pelo Metodo de Simpson foi: 0.2500000
+
+Resultados para f(x) = x^4, I = [0,1], n = 4 -------------------
+O valor da integral pelo Metodo de Simpson foi: 0.2005208
+Resultados para f(x) = x^4, I = [0,1], n = 4 -------------------
+O valor da integral pelo Metodo de Simpson foi: 0.2000000
+
+

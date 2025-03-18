@@ -1,0 +1,20 @@
+Resultados Exemplo 1 -----------------------------
+O método convergiu!
+Iteracao:  20
+Solucao encontrada:
+    1.0000
+    2.0000
+    3.0000
+
+Resultados Exemplo 2 -----------------------------
+O método não convergiu!!
+
+Resultados Exemplo 3 -----------------------------
+O método convergiu!!
+Iteracao:  36
+Solucao encontrada:
+    1.5000
+    1.5000
+
+Resultados Exemplo 4 -----------------------------
+O método não convergiu!!

@@ -1,0 +1,25 @@
+Resultados para f(x) = 4, I = [0,1], n = 4 ---------------------
+Valor da integral pela Regra do Trapezio: 4.0000000
+Resultados para f(x) = 4, I = [0,1], n = 100 -------------------
+Valor da integral pela Regra do Trapezio: 4.0000000
+
+Resultados para f(x) = x, I = [0,1], n = 4 ---------------------
+Valor da integral pela Regra do Trapezio: 0.5000000
+Resultados para f(x) = x, I = [0,1], n = 100 -------------------
+Valor da integral pela Regra do Trapezio: 0.5000000
+
+Resultados para f(x) = x^2, I = [0,1], n = 4 -------------------
+Valor da integral pela Regra do Trapezio: 0.3437500
+Resultados para f(x) = x^2, I = [0,1], n = 100 -----------------
+Valor da integral pela Regra do Trapezio: 0.3333500
+
+Resultados para f(x) = x^3, I = [0,1], n = 4 -------------------
+Valor da integral pela Regra do Trapezio: 0.2656250
+Resultados para f(x) = x^3, I = [0,1], n = 100 -----------------
+Valor da integral pela Regra do Trapezio: 0.2500250
+
+Resultados para f(x) = x^4, I = [0,1], n = 4 -------------------
+Valor da integral pela Regra do Trapezio: 0.2207031
+Resultados para f(x) = x^4, I = [0,1], n = 100 -----------------
+Valor da integral pela Regra do Trapezio: 0.2000333
+

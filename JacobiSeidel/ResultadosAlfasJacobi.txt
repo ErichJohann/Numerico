@@ -1,0 +1,15 @@
+Resultados Exemplo 1 -----------------------------
+Alfa = 0.4
+Satisfaz o critério, logo converge!
+
+Resultados Exemplo 2 -----------------------------
+Alfa = 6
+Não satisfaz o critério!
+
+Resultados Exemplo 3 -----------------------------
+Alfa = 1
+Não satisfaz o critério!
+
+Resultados Exemplo 4 -----------------------------
+Alfa = 8.6667
+Não satisfaz o critério!

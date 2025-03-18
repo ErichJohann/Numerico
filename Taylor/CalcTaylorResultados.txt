@@ -1,0 +1,21 @@
+Resultados Exemplo 1: x = 1, f(x) = e^x, grau=6 ---------------------
+Calculo da expansao de Taylor de uma funcao em torno de a = 0
+Entre com o valor de x: 1
+Entre com o grau do polinomio: 6
+Taylor: 2.7180555556
+Exato : 2.7182818285
+
+Resultados Exemplo 2: x = 1, f(x) = cos(x), grau=6 ------------------
+Calculo da expansao de Taylor de uma funcao em torno de a = 0
+Entre com o valor de x: 1
+Entre com o grau do polinomio: 6
+Taylor: 0.5402777778
+Exato : 0.5403023059
+
+Resultados Exemplo 3: x = 1, f(x) = sen(x), grau=7 ------------------
+Calculo da expansao de Taylor de uma funcao em torno de a = 0
+Entre com o valor de x: 1
+Entre com o grau do polinomio: 7
+Taylor: 0.8414682540
+Exato : 0.8414709848
+
